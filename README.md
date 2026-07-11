@@ -82,7 +82,7 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-**J. Pallavi**
+** A MUJEEB **
 
 GitHub: https://github.com/your-username
 
