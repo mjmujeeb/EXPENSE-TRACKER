@@ -1,4 +1,4 @@
-# 💰 Finance Tracker
+# 💰 Expense Tracker
 
 A modern Expense Tracker web application built with React and Vite to help users manage their daily income and expenses efficiently. The application provides an intuitive interface for recording transactions, tracking spending, and monitoring personal finances.
 
@@ -22,8 +22,8 @@ A modern Expense Tracker web application built with React and Vite to help users
 
 ## 📂 Project Structure
 
-```
-finance-tracker/
+```text
+expense-tracker/
 │── src/
 │── public/
 │── package.json
@@ -37,13 +37,13 @@ finance-tracker/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/finance-tracker.git
+git clone https://github.com/your-username/expense-tracker.git
 ```
 
 ### Navigate to the project
 
 ```bash
-cd finance-tracker
+cd expense-tracker
 ```
 
 ### Install dependencies
@@ -66,9 +66,9 @@ http://localhost:5173
 
 ## 📋 Available Scripts
 
-- `npm run dev` – Start development server
-- `npm run build` – Build for production
-- `npm run preview` – Preview production build
+- `npm run dev` – Start the development server
+- `npm run build` – Build the project for production
+- `npm run preview` – Preview the production build
 - `npm run lint` – Run ESLint
 
 ## 🎯 Future Enhancements
@@ -77,12 +77,13 @@ http://localhost:5173
 - Expense Categories
 - Charts & Analytics
 - Export Reports (PDF/Excel)
+- Budget Planning
 - Dark Mode
 - Cloud Database Integration
 
 ## 👨‍💻 Author
 
-** A MUJEEB **
+**A. Mujeeb**
 
 GitHub: https://github.com/your-username
 
